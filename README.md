@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="githubbanner" width="100%" />
+</p>
+
 # 👋 Hey there, I'm Haikal!
 
 ### 💻 Developer | Tech Enthusiast | Student
