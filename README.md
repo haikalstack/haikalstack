@@ -42,18 +42,6 @@ A web-based inventory management application designed to manage products, monito
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=haikalstack&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haikalstack&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 <p>
