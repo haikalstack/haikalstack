@@ -1,6 +1,6 @@
 <!-- PROFILE BANNER -->
 <p align="center">
-  <img src="githubbanner.png" width="100%" />
+  <img src="banner.jpg" width="100%" />
 </p>
 
 <!-- ANIMATED TYPING -->
