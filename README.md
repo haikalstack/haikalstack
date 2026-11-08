@@ -9,8 +9,6 @@
 </p>
 
 <!-- ABOUT ME -->
-<h2 align="center">👨‍💻 About Me</h2>
-
 Welcome to my GitHub profile! I'm a developer passionate about building applications, exploring new technologies, and turning ideas into reality through code.
 
 ---
