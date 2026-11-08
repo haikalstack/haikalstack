@@ -11,10 +11,6 @@
 <!-- ABOUT ME -->
 <h2 align="center">👨‍💻 About Me</h2>
 
-# 👋 Hey there, I'm Haikal!
-
-### 💻 Developer | Tech Enthusiast | Student
-
 Welcome to my GitHub profile! I'm a developer passionate about building applications, exploring new technologies, and turning ideas into reality through code.
 
 ---
