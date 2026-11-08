@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="githubbanner" width="100%" />
+  <img src="githubbanner.png" width="100%" />
 </p>
 
 # 👋 Hey there, I'm Haikal!
