@@ -1,6 +1,15 @@
+<!-- PROFILE BANNER -->
 <p align="center">
   <img src="githubbanner.png" width="100%" />
 </p>
+
+<!-- ANIMATED TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=A970FF&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Haikal!;IT+Student+%7C+Developer;Welcome+to+my+GitHub!;Building+today%2C+improving+tomorrow." />
+</p>
+
+<!-- ABOUT ME -->
+<h2 align="center">👨‍💻 About Me</h2>
 
 # 👋 Hey there, I'm Haikal!
 
